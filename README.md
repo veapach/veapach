@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm veapach from Russia<br><br>- 🔭 I’m working as backend developer (Go/Python)<br>- 📚 I'm currently learning Golang<br>- ⚡ In my free time I work on my project <a href="https://github.com/veapach/crm-lite">CRM Lite</a></p>
+<p align="left">I'm veapach from Russia<br><br>- 🔭 I’m working as backend developer (Golang)<br>- ⚡ In my free time I work on my project <a href="https://github.com/veapach/geek-list">GeekList</a></p>
 
 ###
 
